@@ -14,7 +14,7 @@ public class Point {
     }
 
     public double distance(Point other){
-        return Math.sqrt((this.x - other.x)*(this.x - other.x) + (this.y - other.y)*(this.y - other.y));
+        return Math.sqrt((x - other.x)*(x - other.x) + (y - other.y)*(y - other.y));
     }
 
 
