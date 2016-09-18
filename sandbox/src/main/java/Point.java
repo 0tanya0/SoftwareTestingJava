@@ -2,8 +2,8 @@
  * Created by 0tanya0 on 9/11/2016.
  */
 public class Point {
-    public double x;
-    public double y;
+    private double x;
+    private double y;
 
 
 
