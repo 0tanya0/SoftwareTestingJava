@@ -29,14 +29,12 @@ public class FindingChildsWithWaitUntil {
                 .until(ExpectedConditions.presenceOfElementLocated(By.xpath(".//*[@id='ctl00_FolderContent_FolderNavigationControl_rtvFolders']/ul/li[6]/div/span[2]")));
         folder.click();
 
-        List<WebElement> elements = driver.findElements(new ByChained(By.id("ctl00_FolderContent_FolderNavigationControl_rtvFolders"),
-                By.xpath("//li[6]/ul/descendant::li")));
+        List<WebElement> elements = new WebDriverWait(driver,10)
+                .until(ExpectedConditions.visibilityOfAllElementsLocatedBy(
+                        new ByChained(By.id("ctl00_FolderContent_FolderNavigationControl_rtvFolders"),
+                                By.xpath("//li[6]/ul/descendant::li"))));
         for (WebElement element:elements) {
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-//            new WebDriverWait(driver, 10)
-//                   .until(ExpectedConditions.presenceOfElementLocated(locator));
             element.click();
-
         }
 
 
