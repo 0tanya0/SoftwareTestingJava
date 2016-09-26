@@ -1,28 +1,37 @@
-package ru.stqa.pft.addressbook;
+package ru.stqa.pft.addressbook.appmanager;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoAlertPresentException;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.Test;
+import ru.stqa.pft.addressbook.model.GroupData;
+import ru.stqa.pft.addressbook.model.NewContactData;
 
 import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.*;
-
-public class NewContactTest {
+/**
+ * Created by 0tanya0 on 9/26/2016.
+ */
+public class ApplicationManager {
     FirefoxDriver wd;
 
-    
-    @BeforeMethod
-    public void setUp() throws Exception {
+    public static boolean isAlertPresent(FirefoxDriver wd) {
+        try {
+            wd.switchTo().alert();
+            return true;
+        } catch (NoAlertPresentException e) {
+            return false;
+        }
+    }
+
+    public void init() {
         wd = new FirefoxDriver();
         wd.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
         wd.get("http://localhost/addressbook/");
         login("admin", "secret");
     }
 
-    private void login(String username, String password) {
+    public void login(String username, String password) {
         wd.findElement(By.name("user")).click();
         wd.findElement(By.name("user")).clear();
         wd.findElement(By.name("user")).sendKeys(username);
@@ -32,19 +41,51 @@ public class NewContactTest {
         wd.findElement(By.xpath("//form[@id='LoginForm']/input[3]")).click();
     }
 
-    @Test
-    public void testNewContactCreation() {
-
-        gotoAddNewPage();
-        fillAddNewForm(new NewContactData("Tanya", "Jr", "Loz", "user", "Home", "Canada", "+14169937617", "+14325678488", "+54636666666", "+44444444443", "loz@gmail.com", "www.test.ru", "4", "April", "1983", "7", "May", "2000", "Russia", "test", "blabla"));
-        submitNewContact();
+    public void returnToGroupPage() {
+        wd.findElement(By.linkText("group page")).click();
     }
 
-    private void submitNewContact() {
+    public void submitGroupCreation() {
+        wd.findElement(By.name("submit")).click();
+    }
+
+    public void fillGroupForm(GroupData groupData) {
+        wd.findElement(By.name("group_name")).click();
+        wd.findElement(By.name("group_name")).clear();
+        wd.findElement(By.name("group_name")).sendKeys(groupData.getName());
+        wd.findElement(By.name("group_header")).click();
+        wd.findElement(By.name("group_header")).clear();
+        wd.findElement(By.name("group_header")).sendKeys(groupData.getHeader());
+        wd.findElement(By.name("group_footer")).click();
+        wd.findElement(By.name("group_footer")).clear();
+        wd.findElement(By.name("group_footer")).sendKeys(groupData.getFooter());
+    }
+
+    public void initGroupCreation() {
+        wd.findElement(By.name("new")).click();
+    }
+
+    public void gotoGroupPage() {
+        wd.findElement(By.linkText("groups")).click();
+    }
+
+    public void stop() {
+        wd.quit();
+    }
+
+    public void deleteSelectedGroups() {
+        wd.findElement(By.name("delete")).click();
+    }
+
+    public void selectGroup() {
+        wd.findElement(By.name("selected[]")).click();
+    }
+
+    public void submitNewContact() {
         wd.findElement(By.xpath("//div[@id='content']/form/input[21]")).click();
     }
 
-    private void fillAddNewForm(NewContactData newContactData) {
+    public void fillAddNewForm(NewContactData newContactData) {
         wd.findElement(By.name("firstname")).click();
         wd.findElement(By.name("firstname")).clear();
         wd.findElement(By.name("firstname")).sendKeys(newContactData.getFirstName());
@@ -130,21 +171,7 @@ public class NewContactTest {
         wd.findElement(By.name("notes")).sendKeys(newContactData.getNotes());
     }
 
-    private void gotoAddNewPage() {
+    public void gotoAddNewPage() {
         wd.findElement(By.linkText("add new")).click();
-    }
-
-    @AfterMethod
-    public void tearDown() {
-        wd.quit();
-    }
-    
-    public static boolean isAlertPresent(FirefoxDriver wd) {
-        try {
-            wd.switchTo().alert();
-            return true;
-        } catch (NoAlertPresentException e) {
-            return false;
-        }
     }
 }
