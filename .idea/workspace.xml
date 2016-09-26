@@ -2,12 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7588741-71a1-41a4-b82a-c5c3d0223b7b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cglib_cglib_nodep_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_19_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_3_5_7_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_jna_4_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_jna_platform_4_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_cssparser_cssparser_0_9_18.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_htmlunit_neko_htmlunit_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_leg_rc_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_2_53_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_w3c_css_sac_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_serializer_2_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_xalan_2_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xerces_xercesImpl_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SoftwareTestingJava.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/sandbox/.gradle/" />
     <ignored path="$PROJECT_DIR$/sandbox/build/" />
+    <ignored path="$PROJECT_DIR$/addressbook-web-tests/.gradle/" />
+    <ignored path="$PROJECT_DIR$/addressbook-web-tests/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +66,9 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/addressbook-web-tests">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/sandbox">
       <ProjectState />
     </projectState>
@@ -36,46 +85,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="MyFirstProgram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java">
+      <file leaf-file-name="GroupCreationTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="100">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistanceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/ptf/sandbox/DistanceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="16" column="64" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongDistanceTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/ptf/sandbox/LongDistanceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -95,16 +110,34 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
+        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="C:\Users\0tanya0\.gradle\wrapper\dists\gradle-3.0-all\6v8c6qg2jpi8twyfv2a5s9mii\gradle-3.0" />
         <entry key="$PROJECT_DIR$/sandbox" value="C:\Users\0tanya0\.gradle\wrapper\dists\gradle-3.0-all\6v8c6qg2jpi8twyfv2a5s9mii\gradle-3.0" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
+        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="3.0" />
         <entry key="$PROJECT_DIR$/sandbox" value="3.0" />
       </map>
     </option>
     <option name="availableProjects">
       <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="addressbook-web-tests" />
+              <option name="path" value="$PROJECT_DIR$/addressbook-web-tests" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="addressbook-web-tests" />
+                <option name="path" value="$PROJECT_DIR$/addressbook-web-tests" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
         <entry>
           <key>
             <ExternalProjectPojo>
@@ -125,6 +158,142 @@
     </option>
     <option name="availableTasks">
       <map>
+        <entry key="$PROJECT_DIR$/addressbook-web-tests">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'addressbook-web-tests'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'addressbook-web-tests'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'addressbook-web-tests'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/sandbox">
           <value>
             <list>
@@ -295,11 +464,162 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="1474857537147" />
         <entry key="$PROJECT_DIR$/sandbox" value="1474768824072" />
       </map>
     </option>
     <option name="projectBuildClasspath">
       <map>
+        <entry key="$PROJECT_DIR$/addressbook-web-tests">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/addressbook-web-tests">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/addressbook-web-tests" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="addressbook-web-tests" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-base-services-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-base-services-groovy-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-cli-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-core-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-docs-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-installation-beacon-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-jvm-services-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-launcher-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-logging-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-messaging-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-model-core-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-model-groovy-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-native-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-open-api-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-process-services-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-resources-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-script-kotlin-0.3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-tooling-api-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-ui-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/gradle-wrapper-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-announce-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-antlr-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-build-comparison-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-build-init-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-code-quality-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-dependency-management-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-diagnostics-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-ear-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-ide-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-ide-native-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-ide-play-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-ivy-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-jacoco-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-javascript-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-jetty-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-language-groovy-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-language-java-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-language-jvm-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-language-native-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-language-scala-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-maven-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-osgi-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-platform-base-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-platform-jvm-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-platform-native-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-platform-play-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-plugin-development-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-plugin-use-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-plugins-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-publish-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-reporting-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-resources-http-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-resources-s3-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-resources-sftp-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-scala-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-signing-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-test-kit-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-testing-base-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-testing-jvm-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-testing-native-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/gradle-tooling-api-builders-3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.0-all/6v8c6qg2jpi8twyfv2a5s9mii/gradle-3.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/addressbook-web-tests/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/addressbook-web-tests/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/sandbox">
           <value>
             <ExternalProjectBuildClasspathPojo>
@@ -466,6 +786,8 @@
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" />
         <option value="$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/ptf/sandbox/DistanceTest.java" />
         <option value="$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/ptf/sandbox/LongDistanceTest.java" />
+        <option value="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/addressbook-web-tests/build.gradle" />
       </list>
     </option>
   </component>
@@ -521,7 +843,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox" />
+              <option name="myItemId" value="addressbook-web-tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -531,7 +853,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="addressbook-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addressbook-web-tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -547,7 +887,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox" />
+              <option name="myItemId" value="addressbook" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -557,7 +897,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox" />
+              <option name="myItemId" value="addressbook-web-tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -568,14 +908,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -585,27 +917,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Android/selenium-server-standalone-2.53.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/addressbook-web-tests/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="TestNG.LongDistanceTest">
-    <configuration default="false" name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sandbox_main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG.GroupCreationTest">
     <configuration default="false" name="FindingChildsWithWaitUntil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FindingChildsWithWaitUntil" />
@@ -693,6 +1010,39 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/sandbox" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="GroupCreationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="addressbook-web-tests_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/addressbook-web-tests" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -952,19 +1302,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MyFirstProgram" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FindingChildsWithWaitUntil" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyFirstProgram (1)" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.DistanceTest" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.LongDistanceTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindingChildsWithWaitUntil" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyFirstProgram (1)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.DistanceTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.LongDistanceTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.GroupCreationTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.LongDistanceTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.DistanceTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyFirstProgram (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FindingChildsWithWaitUntil" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MyFirstProgram" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.GroupCreationTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.LongDistanceTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.DistanceTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyFirstProgram (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindingChildsWithWaitUntil" />
       </list>
     </recent_temporary>
   </component>
@@ -991,6 +1341,9 @@
     <history-entry file="DistanceTest - 2016.09.25 at 18h 29m 13s.xml">
       <configuration name="DistanceTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GroupCreationTest - 2016.09.25 at 22h 41m 45s.xml">
+      <configuration name="GroupCreationTest" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="LongDistanceTest - 2016.09.25 at 18h 32m 20s.xml">
       <configuration name="LongDistanceTest" configurationId="TestNG" />
     </history-entry>
@@ -1000,7 +1353,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1009,12 +1362,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19748859" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1082,18 +1435,42 @@
         <state relative-caret-position="345">
           <caret line="16" column="64" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/src/test/java/ru/stqa/ptf/sandbox/LongDistanceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,12 +1527,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>sandbox_test|sandbox</last-edited>
+          <last-edited>addressbook-web-tests_main|sandbox</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1175,6 +1551,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: com.beust:jcommander:1.48</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
